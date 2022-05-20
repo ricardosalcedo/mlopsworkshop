@@ -12,3 +12,5 @@ lambda/.chalice/deployments
  *.pyc
 .vscode
 .idea/*
+
+token
